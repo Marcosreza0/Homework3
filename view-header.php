@@ -20,15 +20,12 @@
           <a class="nav-link active" aria-current="page" href="/">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="post.php">Post</a>
+          <a class="nav-link" href="coach.php">Coaches</a>
         </li> 
         <li class="nav-item">
-          <a class="nav-link" href="post-result.php">Post result</a>
+          <a class="nav-link" href="team.php">Team</a>
         </li> <li class="nav-item">
-          <a class="nav-link" href="get.php">Get</a>
-        </li> <li class="nav-item">
-          <a class="nav-link" href="get-result.php">Get result</a>
-        </li> 
+          <a class="nav-link" href="team+coach.php">Team + Coach</a>
       </ul>
     </div>
   </div>
